@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+/* First-navbar */
+#navbar4{
+    position: relative;
+    left: 18%;
+}
+#main-navbar{
+    background-color: black;
+}
+#nav-item {
+    color: white;
+}
+#toggle-btns{
+    background-color: yellow;
+}
+
+/* Second-Navbar */
+.second-nav{
+    position: relative;
+    top: 15px;
+}
+.second-nav-content{
+    display: flex;
+}
+.zoom-logo img{
+    width: 10%;
+}
+.login-tabs{
+    width: 16%;
+}
+.contact-sales{
+    /* padding: 10px 20px; */
+}
+
+
+
